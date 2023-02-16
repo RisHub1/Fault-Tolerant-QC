@@ -1,0 +1,17 @@
+
+COUNT - Counting solutions for 3 variables...
+COUNT - Estimated number of solutions: 4.78
+COUNT - Estimated number of Grover Iterations: 0.99
+COUNT - Solution space too large, rerunning with additional variable
+
+COUNT - Counting solutions for 4 variables...
+COUNT - Estimated number of solutions: 4.94
+COUNT - Estimated number of Grover Iterations: 1.40
+
+
+GROVER - Running search with 1 Grover iteration(s)
+GROVER - Solution identified: Jon 
+GROVER - Solution identified: Claire 
+GROVER - Solution identified: Loris 
+GROVER - Solution identified: Loris Jon 
+GROVER - Solution identified: Loris Claire 

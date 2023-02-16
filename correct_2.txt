@@ -1,0 +1,4 @@
+
+COUNT - Counting solutions for 3 variables...
+COUNT - Estimated number of solutions: 0.00
+COUNT - No solutions expected, exiting
